@@ -1,0 +1,12 @@
+spring:
+  datasource:
+    username: root
+    password: sadsalmill123X!
+    url: jdbc:mysql://localhost:3306/jeep
+
+    
+    
+logging: 
+  level: 
+    root: warn 
+    '[com.promineotech]': debug
